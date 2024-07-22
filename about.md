@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Openhealth.org has been promoting open healthcare standards since 1998 including FHIR, XML, JSON
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+We are pleased to announce our new direction given the new healthcare standards
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jonathan@openhealth.org](mailto:jonathan@openhealth.org)
